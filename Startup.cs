@@ -1,4 +1,4 @@
-﻿namespace AspNetConfigurationVS
+﻿namespace AspNetConfigurationCli
 {
     using Microsoft.AspNet.Builder;
     using Microsoft.AspNet.Http;

@@ -1,4 +1,4 @@
-namespace AspNetConfigurationVS
+namespace AspNetConfigurationCli
 {
     using Microsoft.Extensions.Configuration;
 
